@@ -4,3 +4,4 @@ hsq
 hsq
 hsq master
 hsq hot-fix
+hmw update
