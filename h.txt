@@ -3,4 +3,4 @@ hsq 22
 hsq
 hsq
 hsq master
-hsq
+hsq hot-fix
